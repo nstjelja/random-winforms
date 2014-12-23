@@ -1,0 +1,9 @@
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\bin\Debug\ListBoxesAhoy.exe.config
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\bin\Debug\ListBoxesAhoy.exe
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\bin\Debug\ListBoxesAhoy.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\obj\Debug\ListBoxesAhoy.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\obj\Debug\ListBoxesAhoy.Form1.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\obj\Debug\ListBoxesAhoy.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\obj\Debug\ListBoxesAhoy.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\obj\Debug\ListBoxesAhoy.exe
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\ListBoxesAhoy\obj\Debug\ListBoxesAhoy.pdb
