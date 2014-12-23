@@ -1,0 +1,10 @@
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\bin\Debug\FunWithMDI.exe.config
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\bin\Debug\FunWithMDI.exe
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\bin\Debug\FunWithMDI.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.ChildMidi.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.Form1.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.exe
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\FunWithMDI\obj\Debug\FunWithMDI.csprojResolveAssemblyReference.cache
