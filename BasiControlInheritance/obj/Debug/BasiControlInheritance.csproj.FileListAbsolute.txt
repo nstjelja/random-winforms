@@ -1,0 +1,11 @@
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\bin\Debug\BasiControlInheritance.exe.config
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\bin\Debug\BasiControlInheritance.exe
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\bin\Debug\BasiControlInheritance.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\bin\Debug\SharedLibrary.dll
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\bin\Debug\SharedLibrary.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\obj\Debug\BasiControlInheritance.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\obj\Debug\BasiControlInheritance.Form1.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\obj\Debug\BasiControlInheritance.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\obj\Debug\BasiControlInheritance.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\obj\Debug\BasiControlInheritance.exe
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\BasiControlInheritance\obj\Debug\BasiControlInheritance.pdb

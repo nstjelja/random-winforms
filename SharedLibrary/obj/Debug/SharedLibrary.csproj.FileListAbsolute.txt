@@ -1,0 +1,7 @@
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\bin\Debug\SharedLibrary.dll
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\bin\Debug\SharedLibrary.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\obj\Debug\SharedLibrary.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\obj\Debug\SharedLibrary.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\obj\Debug\SharedLibrary.dll
+c:\users\nikola\documents\visual studio 2012\Projects\RandomWinForms\SharedLibrary\obj\Debug\SharedLibrary.pdb

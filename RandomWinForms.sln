@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{479B5D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithMDI", "FunWithMDI\FunWithMDI.csproj", "{8F979579-DCE9-48A7-9947-E7CC9157FB4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasiControlInheritance", "BasiControlInheritance\BasiControlInheritance.csproj", "{AF31A7BF-A9D6-4BAC-AD03-75ED02A21FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{88AB7C55-AD51-495B-AFA3-33BD2787873B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +30,14 @@ Global
 		{8F979579-DCE9-48A7-9947-E7CC9157FB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F979579-DCE9-48A7-9947-E7CC9157FB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F979579-DCE9-48A7-9947-E7CC9157FB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF31A7BF-A9D6-4BAC-AD03-75ED02A21FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF31A7BF-A9D6-4BAC-AD03-75ED02A21FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF31A7BF-A9D6-4BAC-AD03-75ED02A21FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF31A7BF-A9D6-4BAC-AD03-75ED02A21FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
