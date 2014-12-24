@@ -1,0 +1,9 @@
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\bin\Debug\PrintMe.exe.config
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\bin\Debug\PrintMe.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\bin\Debug\PrintMe.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\obj\Debug\PrintMe.csprojResolveAssemblyReference.cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\obj\Debug\PrintMe.Form1.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\obj\Debug\PrintMe.Properties.Resources.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\obj\Debug\PrintMe.csproj.GenerateResource.Cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\obj\Debug\PrintMe.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\PrintMe\obj\Debug\PrintMe.pdb
