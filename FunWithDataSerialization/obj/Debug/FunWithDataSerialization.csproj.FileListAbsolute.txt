@@ -1,0 +1,10 @@
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\FunWithDataSerialization.exe.config
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\FunWithDataSerialization.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\FunWithDataSerialization.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\DatabaseTable.dll
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\DatabaseTable.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\obj\Debug\FunWithDataSerialization.csprojResolveAssemblyReference.cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\obj\Debug\FunWithDataSerialization.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithDataSerialization\obj\Debug\FunWithDataSerialization.pdb
