@@ -1,0 +1,8 @@
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\bin\Debug\FunWithTasks.exe.config
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\bin\Debug\FunWithTasks.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\bin\Debug\FunWithTasks.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.Form1.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.Properties.Resources.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.csproj.GenerateResource.Cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.pdb

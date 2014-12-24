@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadDatabase", "ReadDatabas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithDataSerialization", "FunWithDataSerialization\FunWithDataSerialization.csproj", "{CCFF95CB-E301-406C-9789-CCF8A8C80355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithTasks", "FunWithTasks\FunWithTasks.csproj", "{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{CCFF95CB-E301-406C-9789-CCF8A8C80355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFF95CB-E301-406C-9789-CCF8A8C80355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFF95CB-E301-406C-9789-CCF8A8C80355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
