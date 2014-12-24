@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithDataSerialization", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithTasks", "FunWithTasks\FunWithTasks.csproj", "{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingFactorialCalculation", "ThreadingFactorialCalculation\ThreadingFactorialCalculation.csproj", "{DC43E223-4626-4B76-8F94-3555ED9B3B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3242E5C-2827-42AC-A9CF-60ABF215B8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC43E223-4626-4B76-8F94-3555ED9B3B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC43E223-4626-4B76-8F94-3555ED9B3B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC43E223-4626-4B76-8F94-3555ED9B3B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC43E223-4626-4B76-8F94-3555ED9B3B34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

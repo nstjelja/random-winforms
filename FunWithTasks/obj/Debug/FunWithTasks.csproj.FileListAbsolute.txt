@@ -6,3 +6,4 @@ C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTask
 C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.csproj.GenerateResource.Cache
 C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.exe
 C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\FunWithTasks\obj\Debug\FunWithTasks.csprojResolveAssemblyReference.cache

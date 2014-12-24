@@ -1,0 +1,9 @@
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\obj\Debug\ThreadingFactorialCalculation.csprojResolveAssemblyReference.cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\obj\Debug\ThreadingFactorialCalculation.Form1.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\obj\Debug\ThreadingFactorialCalculation.Properties.Resources.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\obj\Debug\ThreadingFactorialCalculation.csproj.GenerateResource.Cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\bin\Debug\ThreadingFactorialCalculation.exe.config
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\bin\Debug\ThreadingFactorialCalculation.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\bin\Debug\ThreadingFactorialCalculation.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\obj\Debug\ThreadingFactorialCalculation.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ThreadingFactorialCalculation\obj\Debug\ThreadingFactorialCalculation.pdb
