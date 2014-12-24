@@ -1,0 +1,6 @@
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\DatabaseTable\bin\Debug\DatabaseTable.dll.config
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\DatabaseTable\bin\Debug\DatabaseTable.dll
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\DatabaseTable\bin\Debug\DatabaseTable.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\DatabaseTable\obj\Debug\DatabaseTable.csprojResolveAssemblyReference.cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\DatabaseTable\obj\Debug\DatabaseTable.dll
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\DatabaseTable\obj\Debug\DatabaseTable.pdb

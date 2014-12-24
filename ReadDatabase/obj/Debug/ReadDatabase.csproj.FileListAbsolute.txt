@@ -1,0 +1,11 @@
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\bin\Debug\ReadDatabase.exe.config
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\bin\Debug\ReadDatabase.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\bin\Debug\ReadDatabase.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\bin\Debug\DatabaseTable.dll
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\bin\Debug\DatabaseTable.pdb
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\obj\Debug\ReadDatabase.csprojResolveAssemblyReference.cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\obj\Debug\ReadDatabase.Form1.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\obj\Debug\ReadDatabase.Properties.Resources.resources
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\obj\Debug\ReadDatabase.csproj.GenerateResource.Cache
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\obj\Debug\ReadDatabase.exe
+C:\Users\nikola\Documents\Visual Studio 2012\Projects\RandomWinForms\ReadDatabase\obj\Debug\ReadDatabase.pdb
