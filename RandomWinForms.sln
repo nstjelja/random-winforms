@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasiControlInheritance", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{88AB7C55-AD51-495B-AFA3-33BD2787873B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawALine", "DrawALine\DrawALine.csproj", "{102F1026-CD04-4D3E-816F-7DDA762FB122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88AB7C55-AD51-495B-AFA3-33BD2787873B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102F1026-CD04-4D3E-816F-7DDA762FB122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102F1026-CD04-4D3E-816F-7DDA762FB122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102F1026-CD04-4D3E-816F-7DDA762FB122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102F1026-CD04-4D3E-816F-7DDA762FB122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
